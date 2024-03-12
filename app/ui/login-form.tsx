@@ -13,6 +13,7 @@ import { authenticate } from '@/app/lib/actions';
 
 export default function LoginForm() {
   // MAKES ERROR!
+  //https://nextjs.org/learn/dashboard-app/adding-authentication
   // const [errorMessage, dispatch] = useFormState(authenticate, undefined);
   return (
     // Inside the form action={dispatch}
